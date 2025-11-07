@@ -18,25 +18,26 @@
 
 ## Recommendation
 
-> **Offer a 1-year contract at 15% discount** to high-risk customers  
+> **Offer a 1-year contract at 15% discount** to high-risk customers
 > **Expected Impact**: Reduce churn from 63% → ~40% (**23% reduction**)
 
 ---
 
 ## Tools Used
-- **Excel** – Pivot tables & filtering  
-- **MySQL** – SQL aggregation  
-- **Python** – Pandas, Matplotlib, Seaborn  
+- **Excel** – Pivot tables & filtering
+- **MySQL** – SQL aggregation
+- **Python** – Pandas, Matplotlib, Seaborn
 - **Google Colab** + **GitHub**
 
 ---
 
 ## Proof of Work
 
-![Excel Tenure Calculation](images/excel_tenure.png)  
-![MySQL Query Result](images/mysql_query.png)  
-![Tenure Comparison Chart](images/tenure_comparison.png)  
+![Excel Tenure Calculation](images/excel_tenure.png)
+![MySQL Query Result](images/mysql_query.png)
+![Tenure Comparison Chart](images/tenure_comparison.png)
 ![Churn by Contract](images/contract_churn.png)
+![Churn by Payment Method](images/payment_churn.png)
 
 ---
 
@@ -44,4 +45,4 @@
 
 ---
 
-*Built by Abishek | (https://www.linkedin.com/in/abishek2612/)*
+Built by Abishek | https://www.linkedin.com/in/abishek2612/
